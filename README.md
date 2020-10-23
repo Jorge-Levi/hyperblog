@@ -10,6 +10,7 @@ Adios
 - Lista de lo que se
 - No se nada
 - No es cierto
+* Creado por el increible Jorge Levi
 <3
 :smiley: :worried: :worried:
 `var = 5`
