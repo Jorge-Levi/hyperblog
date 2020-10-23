@@ -11,6 +11,11 @@ Adios
 - No se nada
 - No es cierto
 * Creado por el increible Jorge Levi
+<<<<<<< HEAD
+=======
+-- Incluye ejemplos solo en linux
+* DIsponible para todas las personas
+>>>>>>> readme_mejorado
 <3
 :smiley: :worried: :worried:
 `var = 5`
