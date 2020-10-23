@@ -12,6 +12,7 @@ Adios
 - No es cierto
 * Creado por el increible Jorge Levi
 -- Incluye ejemplos solo en linux
+* DIsponible para todas las personas
 <3
 :smiley: :worried: :worried:
 `var = 5`
